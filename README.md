@@ -1,4 +1,11 @@
 # geoQuizMob
-The GeoQuiz Mobile application 
+The GeoQuiz Mobile application: A location based application with main theme the history of UCL Campus!
 
-Credits to Google Material Design template on which this app is developed: URL: https://material.io/guidelines/
+
+
+
+
+
+Sources: Google Material Design Template, URL: https://material.io/guidelines/
+         Leaflet, URL: https://leafletjs.com
+         
