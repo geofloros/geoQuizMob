@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+		<title> Question Form</title>
+</head>
+<body>
+	<div id='questionform'>
+		<form name="form">
+
+			<p id ='question'>Wait for it...</p>
+		
+			<p id = 'optionA'> Option A:</p>
+        	<input type="checkbox" name="optionA" class='checkmark'>
+
+        	<p id = 'optionB'> Option B:</p>
+        	<input type="checkbox" name="optionB" class='checkmark'>
+
+        	<p id = 'optionC'> Option C:</p>
+        	<input type="checkbox" name="optionC" class='checkmark'>
+
+        	<p id = 'optionD'> Option D:</p>
+        	<input type="checkbox" name="optionD" class='checkmark'>
+		</form>
+			<p>
+					<div id="dataUploadResult">The result of the upload goes here</div>
+					<button id="startUpload" onclick="startAnswerUpload()">Check answer</button>
+			</p>
+			<div id='res'></div>
+	</div>
+
+<script src="./js/location.js"></script>
+</body>
+</html>

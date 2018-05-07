@@ -1,4 +1,4 @@
-//This file loads the data that are entered as input from the web question app.
+//This file loads the data that are entered as input from the web question app. (Adapted from Ellul, 2018: Practical 2: Web and Mobile Apps and Programming – Leaflet and Javascript Part 2)
 
 var poilayer;
 

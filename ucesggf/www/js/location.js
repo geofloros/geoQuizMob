@@ -79,7 +79,7 @@ function calcDistFromPoint(position) {
 }
 
 
-// define the global variable to process the AJAX request (Adapted by Ellul, 2018)
+// define the global variable to process the AJAX request (Adapted by Ellul, 2018: Practical 5: Web and Mobile Apps and Programming – Servers and AJAX)
 function callDivChange(recobj) {
 	xhr = new XMLHttpRequest(); 
 	xhr.open("GET", "userform.html", true); 
@@ -156,7 +156,7 @@ function dataUploaded() {
     }
 }
 //Calculating the distances
-//Source: https://stackoverflow.com/questions/18883601/function-to-calculate-distance-between-two-coordinates-shows-wrong
+//Source: https://stackoverflow.com/questions/18883601/function-to-calculate-distance-between-two-coordinates-shows-wrong, Nickname: Derek
 function calculateDistance(lat1, lon1, lat2, lon2) {
 	var R = 6371;
 	var dLat = deg2rad(lat2-lat1);
