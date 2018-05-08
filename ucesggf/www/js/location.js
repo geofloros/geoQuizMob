@@ -59,7 +59,7 @@ function calcDistFromPoint(position) {
 	var k = poilayer.toGeoJSON().features[minindex].properties; //setting a variable to itterate through the properties of the indexed distance
 //checking if its closer than 100 meters
 	if (minDist < 0.1) {
-		alert("Please scroll down to see the question")
+		alert("You are near a building! Please scroll down to see the question")
 		console.log(k);
 		recobj =
 		{

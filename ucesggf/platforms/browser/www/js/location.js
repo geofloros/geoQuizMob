@@ -137,7 +137,7 @@ function startAnswerUpload() {
 	processAnswerData(postString);
 
 }
-//Uploading the data to the server, adapted from Ellul, 2018:)
+//Uploading the data to the server, adapted from Ellul, 2018:Practical 5: Web and Mobile Apps and Programming – Servers and AJAX))
 var client;
 
 function processAnswerData(postString) {
