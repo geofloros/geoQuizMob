@@ -23,6 +23,8 @@ JS Hint. URL: http://jshint.com . Accessed on 07/05/2018.
 
 Leaflet. URL: https://leafletjs.com . Accessed on 07/05/2018.
 
+Leaflet – Awesome Markets. URL: http://leafletjs.com & https://github.com/lvoogdt 
+
 Material Design. URL: https://getmdl.io/templates/index.html . Accessed on 07/05/2018.
 
 PhoneGap. URL: https://phonegap.com . Accessed on 07/05/2018.
