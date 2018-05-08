@@ -7,7 +7,7 @@ function loadPoiData() {
 	getpoi();
 }
 
-//Connecting with the server(Code adapted from Ellul, 2018: )
+//Connecting with the server(Code adapted from Ellul, 2018: Web and Mobile Apps and Programming – Servers and AJAX)
 var client;
 var poilayer;
 

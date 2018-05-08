@@ -30,7 +30,7 @@ function getPosition(position) {
 	mymap.setView([x,y], 20);
 }
 
-//Getting all the functionality of calcDistFromPoin
+//Getting all the functionality of calcDistFromPoint (Source: Adapted from Ellul, 2018: Web and Mobile Apps and Programming – Location Based Services via HTML5)
 function getDistance() { 
 	//alert('getting distance');
 	navigator.geolocation.getCurrentPosition(calcDistFromPoint);
